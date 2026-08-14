@@ -76,3 +76,8 @@ Model Evaluation
 Model Comparison
    ↓
 Best Model Selection
+## Live Prediction Interface
+
+The trained Random Forest model is available through an interactive user interface where users can enter the required electrical and operational parameters and receive an energy-consumption prediction.
+
+**[Launch the Prediction Interface](http://127.0.0.1:7860)**
